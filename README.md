@@ -1,2 +1,2 @@
-# Codes_4_Dispersity
+# Codes__Dispersity
 Dispersity codes for personal use
